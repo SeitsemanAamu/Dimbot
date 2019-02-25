@@ -1,0 +1,2 @@
+# Dimbot
+Discord bot
